@@ -46,12 +46,12 @@ export default class Maa extends React.Component {
                 <Container>
                     <Grid container item xs={12} lg={12}>
                         <Grid item xs={12} lg={12} className="forImage">
-                            <div data-aos="zoom-out-right">
+                            <div data-aos="zoom-in">
                                 <img src={maa2} className="proimg" /><br />
                             </div>
                         </Grid>
                         <Grid item xs={12} lg={12}>
-                            <div data-aos="zoom-out-left">
+                            <div data-aos="zoom-in">
                                 <Typography variant="h3" style={{ fontFamily: "serif", marginTop: "60px", textAlign: "center", backgroundColor: "#FAEBD7", borderRadius: "100px" }}><b><i>I wish you plenty of love, happiness, health, laughter, joy and wonders.</i></b></Typography><br />
                                 <Typography style={{ fontFamily: "serif", fontSize: 25, textAlign: "center" }}><i>
                                 Happy birthday to the best mom ever! Even if you get older every year, you get younger at your heart.
